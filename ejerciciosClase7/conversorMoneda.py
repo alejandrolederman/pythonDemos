@@ -1,6 +1,3 @@
-from mimetypes import init
-
-
 pais = input("coloque su pais: ")
 dolar = int (input("cantidad de dolares: $"))
 

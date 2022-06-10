@@ -5,6 +5,8 @@ nota3 = int(input("nota del tercer examen: "))
 
 promedio = (nota1 + nota2 + nota3) / 3
 
+print (promedio)
+
 if ((promedio <= 8) and (asistencia< 80)):
     print ("promocionaste")
 else:
